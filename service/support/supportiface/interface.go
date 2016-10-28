@@ -9,8 +9,8 @@
 package supportiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/support"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/support"
 )
 
 // SupportAPI provides an interface to enable mocking the

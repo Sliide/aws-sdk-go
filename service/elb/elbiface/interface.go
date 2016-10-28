@@ -9,8 +9,8 @@
 package elbiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/elb"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/elb"
 )
 
 // ELBAPI provides an interface to enable mocking the

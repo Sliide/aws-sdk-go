@@ -6,10 +6,10 @@ package apigateway
 import (
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awsutil"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol"
-	"github.com/aws/aws-sdk-go/private/protocol/restjson"
+	"github.com/sliide/aws-sdk-go/aws/awsutil"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/private/protocol"
+	"github.com/sliide/aws-sdk-go/private/protocol/restjson"
 )
 
 const opCreateApiKey = "CreateApiKey"

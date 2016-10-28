@@ -9,8 +9,8 @@
 package codecommitiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/codecommit"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/codecommit"
 )
 
 // CodeCommitAPI provides an interface to enable mocking the

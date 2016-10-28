@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"strconv"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/sliide/aws-sdk-go/aws/awserr"
 )
 
 func (client *DecryptionClient) contentCipherFromEnvelope(env Envelope) (ContentCipher, error) {

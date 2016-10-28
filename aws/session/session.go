@@ -3,15 +3,15 @@ package session
 import (
 	"fmt"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/client"
-	"github.com/aws/aws-sdk-go/aws/corehandlers"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/credentials/stscreds"
-	"github.com/aws/aws-sdk-go/aws/defaults"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/endpoints"
+	"github.com/sliide/aws-sdk-go/aws"
+	"github.com/sliide/aws-sdk-go/aws/awserr"
+	"github.com/sliide/aws-sdk-go/aws/client"
+	"github.com/sliide/aws-sdk-go/aws/corehandlers"
+	"github.com/sliide/aws-sdk-go/aws/credentials"
+	"github.com/sliide/aws-sdk-go/aws/credentials/stscreds"
+	"github.com/sliide/aws-sdk-go/aws/defaults"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/private/endpoints"
 )
 
 // A Session provides a central location to create service clients from and

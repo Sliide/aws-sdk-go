@@ -4,8 +4,8 @@
 package dynamodbstreams
 
 import (
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/dynamodbstreams"
+	"github.com/sliide/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/sliide/aws-sdk-go/service/dynamodbstreams"
 	"github.com/gucumber/gucumber"
 )
 

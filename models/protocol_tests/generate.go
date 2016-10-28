@@ -16,8 +16,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/aws/aws-sdk-go/private/model/api"
-	"github.com/aws/aws-sdk-go/private/util"
+	"github.com/sliide/aws-sdk-go/private/model/api"
+	"github.com/sliide/aws-sdk-go/private/util"
 )
 
 // TestSuiteTypeInput input test
@@ -90,11 +90,11 @@ var extraImports = []string{
 	"time",
 	"net/url",
 	"",
-	"github.com/aws/aws-sdk-go/awstesting",
-	"github.com/aws/aws-sdk-go/awstesting/unit",
-	"github.com/aws/aws-sdk-go/private/protocol",
-	"github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil",
-	"github.com/aws/aws-sdk-go/private/util",
+	"github.com/sliide/aws-sdk-go/awstesting",
+	"github.com/sliide/aws-sdk-go/awstesting/unit",
+	"github.com/sliide/aws-sdk-go/private/protocol",
+	"github.com/sliide/aws-sdk-go/private/protocol/xml/xmlutil",
+	"github.com/sliide/aws-sdk-go/private/util",
 	"github.com/stretchr/testify/assert",
 }
 

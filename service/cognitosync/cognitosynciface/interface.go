@@ -9,8 +9,8 @@
 package cognitosynciface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/cognitosync"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/cognitosync"
 )
 
 // CognitoSyncAPI provides an interface to enable mocking the

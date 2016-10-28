@@ -9,8 +9,8 @@
 package lambdaiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/lambda"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/lambda"
 )
 
 // LambdaAPI provides an interface to enable mocking the

@@ -3,7 +3,7 @@
 package s3
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilBucketExists uses the Amazon S3 API operation

@@ -9,8 +9,8 @@
 package datapipelineiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/datapipeline"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/datapipeline"
 )
 
 // DataPipelineAPI provides an interface to enable mocking the

@@ -9,8 +9,8 @@
 package cloudsearchdomainiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/cloudsearchdomain"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/cloudsearchdomain"
 )
 
 // CloudSearchDomainAPI provides an interface to enable mocking the

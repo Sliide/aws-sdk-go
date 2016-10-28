@@ -9,8 +9,8 @@
 package ecsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/ecs"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/ecs"
 )
 
 // ECSAPI provides an interface to enable mocking the

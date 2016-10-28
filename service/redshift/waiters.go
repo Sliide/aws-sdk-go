@@ -3,7 +3,7 @@
 package redshift
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilClusterAvailable uses the Amazon Redshift API operation

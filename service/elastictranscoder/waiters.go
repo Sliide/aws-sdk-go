@@ -3,7 +3,7 @@
 package elastictranscoder
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilJobComplete uses the Amazon Elastic Transcoder API operation

@@ -9,8 +9,8 @@
 package servicecatalogiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/servicecatalog"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/servicecatalog"
 )
 
 // ServiceCatalogAPI provides an interface to enable mocking the

@@ -3,7 +3,7 @@
 package ses
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilIdentityExists uses the Amazon SES API operation

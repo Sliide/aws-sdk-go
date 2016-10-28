@@ -9,8 +9,8 @@
 package emriface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/emr"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/emr"
 )
 
 // EMRAPI provides an interface to enable mocking the

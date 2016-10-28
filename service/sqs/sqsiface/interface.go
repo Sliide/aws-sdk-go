@@ -9,8 +9,8 @@
 package sqsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/sqs"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/sqs"
 )
 
 // SQSAPI provides an interface to enable mocking the

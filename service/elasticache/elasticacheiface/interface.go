@@ -9,8 +9,8 @@
 package elasticacheiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/elasticache"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/elasticache"
 )
 
 // ElastiCacheAPI provides an interface to enable mocking the

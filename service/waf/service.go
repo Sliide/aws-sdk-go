@@ -3,12 +3,12 @@
 package waf
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/client"
-	"github.com/aws/aws-sdk-go/aws/client/metadata"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/signer/v4"
-	"github.com/aws/aws-sdk-go/private/protocol/jsonrpc"
+	"github.com/sliide/aws-sdk-go/aws"
+	"github.com/sliide/aws-sdk-go/aws/client"
+	"github.com/sliide/aws-sdk-go/aws/client/metadata"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/aws/signer/v4"
+	"github.com/sliide/aws-sdk-go/private/protocol/jsonrpc"
 )
 
 // This is the AWS WAF API Reference. This guide is for developers who need

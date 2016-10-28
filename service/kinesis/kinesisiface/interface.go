@@ -9,8 +9,8 @@
 package kinesisiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/kinesis"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/kinesis"
 )
 
 // KinesisAPI provides an interface to enable mocking the

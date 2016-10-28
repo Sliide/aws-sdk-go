@@ -3,7 +3,7 @@
 package rds
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilDBInstanceAvailable uses the Amazon RDS API operation

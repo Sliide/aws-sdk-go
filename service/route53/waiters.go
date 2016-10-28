@@ -3,7 +3,7 @@
 package route53
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilResourceRecordSetsChanged uses the Route 53 API operation

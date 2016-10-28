@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/aws/aws-sdk-go/private/model"
+	"github.com/sliide/aws-sdk-go/private/model"
 )
 
 // Generates the endpoints from json description

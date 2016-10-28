@@ -9,8 +9,8 @@
 package efsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/efs"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/service/efs"
 )
 
 // EFSAPI provides an interface to enable mocking the

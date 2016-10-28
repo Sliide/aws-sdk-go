@@ -4,8 +4,8 @@
 package redshift
 
 import (
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/redshift"
+	"github.com/sliide/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/sliide/aws-sdk-go/service/redshift"
 	"github.com/gucumber/gucumber"
 )
 

@@ -66,7 +66,7 @@ Service Model Updates
 
 SDK Features
 ---
-* `service/s3`: Add support for accelerate with dualstack [#887](https://github.com/aws/aws-sdk-go/issues/887)
+* `service/s3`: Add support for accelerate with dualstack [#887](https://github.com/sliide/aws-sdk-go/issues/887)
 
 Release v1.4.16 (2016-10-13)
 ===
@@ -80,15 +80,15 @@ Service Model Updates
 
 SDK Bug Fixes
 ---
-* `aws/session`: Skip shared config on read errors [#883](https://github.com/aws/aws-sdk-go/issues/883)
-* `aws/signer/v4`: Add support for URL.EscapedPath to signer [#885](https://github.com/aws/aws-sdk-go/issues/885)
+* `aws/session`: Skip shared config on read errors [#883](https://github.com/sliide/aws-sdk-go/issues/883)
+* `aws/signer/v4`: Add support for URL.EscapedPath to signer [#885](https://github.com/sliide/aws-sdk-go/issues/885)
 
 SDK Features
 ---
-* `private/model/api`: Add docs for errors to API operations [#881](https://github.com/aws/aws-sdk-go/issues/881)
-* `private/model/api`: Improve field and waiter doc strings [#879](https://github.com/aws/aws-sdk-go/issues/879)
-* `service/dynamodb/dynamodbattribute`: Allow multiple struct tag elements [#886](https://github.com/aws/aws-sdk-go/issues/886)
-* Add build tags to internal SDK tools [#880](https://github.com/aws/aws-sdk-go/issues/880)
+* `private/model/api`: Add docs for errors to API operations [#881](https://github.com/sliide/aws-sdk-go/issues/881)
+* `private/model/api`: Improve field and waiter doc strings [#879](https://github.com/sliide/aws-sdk-go/issues/879)
+* `service/dynamodb/dynamodbattribute`: Allow multiple struct tag elements [#886](https://github.com/sliide/aws-sdk-go/issues/886)
+* Add build tags to internal SDK tools [#880](https://github.com/sliide/aws-sdk-go/issues/880)
 
 Release v1.4.15 (2016-10-06)
 ===
@@ -103,12 +103,12 @@ Service Model Updates
 
 SDK Bug Fixes
 ---
-* `aws/request`: Fix HTTP Request Body race condition [#874](https://github.com/aws/aws-sdk-go/issues/874)
+* `aws/request`: Fix HTTP Request Body race condition [#874](https://github.com/sliide/aws-sdk-go/issues/874)
 
 SDK Feature Updates
 ---
-* `aws/ec2metadata`: Add support for EC2 User Data [#872](https://github.com/aws/aws-sdk-go/issues/872)
-* `aws/signer/v4`: Remove logic determining if request needs to be resigned [#876](https://github.com/aws/aws-sdk-go/issues/876)
+* `aws/ec2metadata`: Add support for EC2 User Data [#872](https://github.com/sliide/aws-sdk-go/issues/872)
+* `aws/signer/v4`: Remove logic determining if request needs to be resigned [#876](https://github.com/sliide/aws-sdk-go/issues/876)
 
 Release v1.4.14 (2016-09-29)
 ===

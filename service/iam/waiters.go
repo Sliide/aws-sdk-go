@@ -3,7 +3,7 @@
 package iam
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilInstanceProfileExists uses the IAM API operation
