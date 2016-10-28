@@ -4,9 +4,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/service/dynamodb"
+	"github.com/sliide/aws-sdk-go/aws"
+	"github.com/sliide/aws-sdk-go/aws/awserr"
+	"github.com/sliide/aws-sdk-go/service/dynamodb"
 )
 
 type mySimpleStruct struct {

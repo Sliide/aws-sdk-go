@@ -3,7 +3,7 @@
 package dynamodb
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/sliide/aws-sdk-go/private/waiter"
 )
 
 // WaitUntilTableExists uses the DynamoDB API operation

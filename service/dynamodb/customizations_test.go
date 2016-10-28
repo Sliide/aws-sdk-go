@@ -9,11 +9,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting/unit"
-	"github.com/aws/aws-sdk-go/service/dynamodb"
+	"github.com/sliide/aws-sdk-go/aws"
+	"github.com/sliide/aws-sdk-go/aws/awserr"
+	"github.com/sliide/aws-sdk-go/aws/request"
+	"github.com/sliide/aws-sdk-go/awstesting/unit"
+	"github.com/sliide/aws-sdk-go/service/dynamodb"
 )
 
 var db *dynamodb.DynamoDB
